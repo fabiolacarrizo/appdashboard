@@ -1,0 +1,14 @@
+
+
+.logo-img{width: 150px; height: 150px; margin: 20px;}
+
+.cart-logo-titulo{ display: flex; flex-direction: row; justify-content: flex-start;}
+
+
+header{height: 200px; margin-top: 0px; background-color: #150050; border-bottom: solid 10px #AF0171; display: flex; flex-direction: row; align-items: center; justify-content: center; }
+
+.titulo-nav{display: flex; align-items: center; justify-content:center; color: #AF0171; margin-right: 50px;}
+
+.button-nav{width: 450; height: 10; margin: 20px; background-color: azure; align-items: center; justify-content: center;}
+
+.card-button{display: flex; flex-direction: row; justify-content: end; align-items: center; }
